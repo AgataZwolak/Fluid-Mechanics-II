@@ -21,7 +21,8 @@ W analizowanym zadaniu zakładamy, że:
 - zachodzi stały objętościowy przyrost ciepła na skutek przepływu prądu,
 - nie zachodzi konwekcja ciepła. 
 
-Analizę należy wykonać za pomocą metody różnic skończonych. Analizowany jest jednolity pręt o przekroju kołowym. Dane materiałowe, jak i warunki brzegowe są podane.
+Analizę należy wykonać za pomocą metody różnic skończonych. Analizowany jest jednolity pręt o przekroju kołowym. 
+Dane materiałowe, jak i warunki brzegowe są podane.
 
 Zadaniem jest podanie:
 1. Maksymalnej temperatury jaką osiągnie układ dla danych warunków, wraz ze wskazaniem miejsca (współrzędna) gdzie ono się znajdzie.
