@@ -1,6 +1,6 @@
 # Fluid-Mechanics-II
 
-#zadanie 1:
+zadanie 1:
 Ustalone przewodzenie ciepła w pręcie z generacją
 
 Dane: 
