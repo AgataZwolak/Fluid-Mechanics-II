@@ -3,16 +3,16 @@ Ustalone przewodzenie ciepła w pręcie z generacją
 
 Dane: 
 
-D = 0.0095 m
-L = 1.45 m
-I = 141 A
-σ = 5.34*10-8 Ωm
-λ = 138.0 W/mK
-ρ = 10280 kg/m3
-C = 250 J/kgK
-Ts1 = 928 K
-Ts2 = 835 K
-Tkr = 1330 K
+- D = 0.0095 m
+- L = 1.45 m
+- I = 141 A
+- σ = 5.34*10-8 Ωm
+- λ = 138.0 W/mK
+- ρ = 10280 kg/m3
+- C = 250 J/kgK
+- Ts1 = 928 K
+- Ts2 = 835 K
+- Tkr = 1330 K
 
 W analizowanym zadaniu zakładamy, że:
 - temperatury Ts1 i Ts2 są stałe w czasie,
